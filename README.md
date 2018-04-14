@@ -26,3 +26,7 @@ added a little bit tolerance to this number, so it is 30.
 As I learn more, I will come back optimize the code.
 5. Any bug report is welcome.
 
+## Dependencies
+The symbols for cards are created by using [Font Awesome](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css)
+The font used for paragraphs and headers is [Coda from Google Fonts](https://fonts.googleapis.com/css?family=Coda)
+

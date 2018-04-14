@@ -170,11 +170,9 @@ function restart() {
   }
   shuffleCards(cards);
   openCardList = [];
+  quitModal();
 }
 
-/* Click anywhere out of the modal content will close the modal */
-document.body.addEventListener('click', (e) => {
-  if (e.target.className == 'modal') {
-    modal.style.display = 'none';
-  }
-});
+function quitModal() {
+  modal.style.display = 'none';
+}

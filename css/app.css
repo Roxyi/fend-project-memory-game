@@ -60,6 +60,14 @@ h1 {
   width: 80%;
 }
 
+.quit {
+  margin-left: 50px;
+}
+
+.quit:hover, .replay:hover {
+  cursor: pointer;
+}
+
 /*
  * Styles for the deck of cards
  */
